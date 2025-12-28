@@ -4,6 +4,7 @@
 Dự án này thực hiện phân tích mạng xã hội trên dữ liệu đồng mua của Amazon, tập trung vào:
 - Phân tích cấu trúc core-periphery của mạng
 - Đề xuất sản phẩm cross-sell dựa trên cấu trúc mạng
+- Xây dựng mô hình học máy ứng dụng đặc trưng lõi - ngoại vi để đề xuất sản phẩm bán kèm
 - Thống kê, trực quan hóa và nghiên cứu case study thực tế
 
 ## Cấu trúc thư mục
@@ -38,7 +39,11 @@ Dự án này thực hiện phân tích mạng xã hội trên dữ liệu đồ
 - Hoặc mở notebook để xem phân tích chi tiết.
 
 ## Tác giả
-- Nhóm 1 - Mạng Xã Hội, UIT
+- Nhóm 1 - Jet2Holiday - UIT
++ Đào Trung Hiếu - 22520430
++ Nguyễn Bá Hưng - 22520512
++ Nguyễn Thị Trinh - 22521539
++ Nguyễn Đức Hùng - 22520525
 - Liên hệ: TrunHiuu (https://github.com/TrunHiuu)
 
 ## Bản quyền
